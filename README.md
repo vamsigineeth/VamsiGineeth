@@ -1,6 +1,5 @@
-                                                      # Hi 👋, I'm Vamsi Gineeth
-
-                                                    ### 🚀 Aspiring Web Developer 
+ # Hi 👋, I'm Vamsi Gineeth
+  ### 🚀 Aspiring Web Developer 
 
 - 🌱 I'm currently learning *React* and *Node.js*
 - 💻 Interested in Web Development 
