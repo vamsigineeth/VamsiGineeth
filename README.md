@@ -18,14 +18,13 @@
 ## 🛠 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c" width="50px"/> 
-  <img src="https://skillicons.dev/icons?i=python" width="50px"/>
-  <img src="https://skillicons.dev/icons?i=html" width="50px"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50px"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="50px"/>
-  <img src="https://skillicons.dev/icons?i=react" width="50px"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50px"/>
+  <img src="https://skillicons.dev/icons?i=c" width="50px" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50px" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50px" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50px" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50px" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50px" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50px" style="margin: 10px;"/>
 </p>
-
 ---
 
