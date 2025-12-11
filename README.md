@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Vamsi Gineeth
 
-<!--
-**vamsigineeth/VamsiGineeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Web Developer 
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning *React* and *Node.js*
+- 💻 Interested in *Web Development 
+- 🔭 Passionate about building projects and learning new tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect with me
+
+📧 *Email:* vamsigineeth0294@gmail.com
+
+---
+
+## 🛠 Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c" width="50px"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50px"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50px"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50px"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50px"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50px"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50px"/>
+</p>
+
+---
+
